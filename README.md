@@ -14,3 +14,7 @@
 
 ### ⚠️ 聲明
 僅供技術研究，請遵守公司資安政策。
+
+---
+
+**聯絡開發者 (Contact)**: [john608440227@gmail.com](mailto:john608440227@gmail.com)
